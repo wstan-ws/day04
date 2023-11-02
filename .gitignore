@@ -1,0 +1,4 @@
+classes
+*.tmp
+*.log
+tmp.*
